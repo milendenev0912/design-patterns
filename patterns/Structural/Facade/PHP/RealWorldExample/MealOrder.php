@@ -11,9 +11,9 @@
 | @category  Design Pattern
 | @package   Facade
 | @version   1.0.0
-| @author    JawherKl
+| @author    Milen Denev
 | @license   MIT License
-| @link      https://github.com/JawherKl/design-patterns-in-php
+| @link      https://github.com/milendenev0912/design-patterns
 |--------------------------------------------------------------------------
 */
 

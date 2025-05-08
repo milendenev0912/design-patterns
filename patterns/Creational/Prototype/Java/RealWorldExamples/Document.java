@@ -11,7 +11,7 @@ package patterns.Creational.Prototype.Java.RealWorldExamples;
 | @package   Creational.Prototype.RealWorldExamples
 | @version   1.0.0
 | @license   MIT License
-| @link      https://github.com/JawherKl/design-patterns-in-java
+| @link      https://github.com/Milen Denev/design-patterns-in-java
 |--------------------------------------------------------------------------
 */
 

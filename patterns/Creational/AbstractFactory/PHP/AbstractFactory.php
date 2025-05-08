@@ -11,10 +11,10 @@
 |--------------------------------------------------------------------------
 | @category  Design Pattern
 | @package   Creational/AbstractFactory
-| @author    JawherKl
+| @author    Milen Denev
 | @version   1.0.0
 | @license   MIT License
-| @link      https://github.com/JawherKl/design-patterns-in-multiple-languages
+| @link      https://github.com/milendenev0912/design-patterns
 |--------------------------------------------------------------------------
 |
 | Key Components:

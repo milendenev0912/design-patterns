@@ -2,14 +2,6 @@
 
 # Design-patterns
 
-![Repository Size](https://img.shields.io/github/repo-size/JawherKl/design-patterns-in-multiple-languages)
-![Last Commit](https://img.shields.io/github/last-commit/JawherKl/design-patterns-in-multiple-languages)
-![Issues](https://img.shields.io/github/issues-raw/JawherKl/design-patterns-in-multiple-languages)
-![Forks](https://img.shields.io/github/forks/JawherKl/design-patterns-in-multiple-languages)
-![Stars](https://img.shields.io/github/stars/JawherKl/design-patterns-in-multiple-languages)
-
-![design-patterns-in-multiple-languages](https://github.com/JawherKl/design-patterns-in-multiple-languages/blob/main/docs/design-patterns.png)
-
 In this project, I will provide examples of all major design patterns and demonstrate how they are implemented in PHP, Go, JS and Java.
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)&nbsp;
@@ -61,7 +53,3 @@ Mastering design patterns is essential for software engineers to write better, m
 - [Design Patterns: Elements of Reusable Object-Oriented Software](https://github.com/GunterMueller/Books-3/blob/master/Design%20Patterns%20Elements%20of%20Reusable%20Object-Oriented%20Software.pdf)
 - [codewars-design-patterns](https://www.codewars.com/collections/design-patterns)
 - [leetcode-design-patterns](https://leetcode.com/problem-list/design/)
-
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/JawherKl/design-patterns-in-multiple-languages.svg?variant=adaptive)](https://starchart.cc/JawherKl/design-patterns-in-multiple-languages)

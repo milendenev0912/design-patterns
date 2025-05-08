@@ -10,7 +10,7 @@
 | @package   Creational/Prototype
 | @version   1.0.0
 | @license   MIT License
-| @link      https://github.com/JawherKl/design-patterns-in-go
+| @link      https://github.com/Milen Denev/design-patterns-in-go
 |--------------------------------------------------------------------------
 |
 | Key Components:

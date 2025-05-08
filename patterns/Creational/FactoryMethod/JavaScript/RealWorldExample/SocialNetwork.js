@@ -10,8 +10,8 @@
 | @package   Creational/FactoryMethod/RealWorldExample
 | @version   1.0.0
 | @license   MIT License
-| @author    JawherKl
-| @link      https://github.com/JawherKl/design-patterns-in-php
+| @author    Milen Denev
+| @link      https://github.com/milendenev0912/design-patterns
 |--------------------------------------------------------------------------
 |
 | Key Components:

@@ -1,24 +1,5 @@
 [ Passer en Anglais 🇬🇧](README.md)
 
-# Design Patterns
-
-![Repository Size](https://img.shields.io/github/repo-size/JawherKl/design-patterns-in-multiple-languages)
-![Last Commit](https://img.shields.io/github/last-commit/JawherKl/design-patterns-in-multiple-languages)
-![Issues](https://img.shields.io/github/issues-raw/JawherKl/design-patterns-in-multiple-languages)
-![Forks](https://img.shields.io/github/forks/JawherKl/design-patterns-in-multiple-languages)
-![Stars](https://img.shields.io/github/stars/JawherKl/design-patterns-in-multiple-languages)
-
-![design-patterns-in-multiple-languages](https://github.com/JawherKl/design-patterns-in-multiple-languages/blob/main/docs/design-patterns.png)
-
-Dans ce projet, je fournirai des exemples de tous les principaux design patterns et démontrerai comment ils sont implémentés en PHP, Go, JS et Java.
-
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)&nbsp;
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-Étudier et pratiquer tous les types de design patterns est crucial pour les ingénieurs logiciels pour plusieurs raisons :
-
 ### 1. **Amélioration des compétences en résolution de problèmes**  
 Les design patterns offrent des solutions éprouvées aux problèmes courants de conception logicielle. Comprendre ces patterns permet aux ingénieurs de reconnaître des défis récurrents et d'appliquer des solutions efficaces sans réinventer la roue. Cette capacité améliore les compétences en résolution de problèmes et aide à aborder de nouveaux problèmes plus efficacement.
 

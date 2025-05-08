@@ -7,10 +7,10 @@
 |--------------------------------------------------------------------------
 | @category  Design Pattern
 | @package   Behavioral/ChainOfResponsibility/Middleware
-| @author    JawherKl
+| @author    Milen Denev
 | @version   1.0.0
 | @license   MIT License
-| @link      https://github.com/JawherKl/design-patterns-in-php
+| @link      https://github.com/milendenev0912/design-patterns
 |--------------------------------------------------------------------------
 */
 
