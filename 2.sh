@@ -11,5 +11,6 @@ if [ "$GIT_AUTHOR_EMAIL" = "$OLD_EMAIL" ]
 then
     export GIT_AUTHOR_EMAIL="$NEW_EMAIL"
     export GIT_AUTHOR_NAME="$NEW_NAME"
+    
 fi
 ' --tag-name-filter cat -- --branches --tags
